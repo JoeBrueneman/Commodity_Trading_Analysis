@@ -78,13 +78,13 @@ A slowdown in the labor market during the pandemic will not impact coffee prices
 Conclusion
 
 Coffee vs. Stock Market 
-➽ Very Weak to Strong Correlations
+➽ Coffee price does not have a significant impact stock price
 
 Coffee vs. Global Economy
-➽ Very Weak to Moderate Correlations
+➽ Coffee price has an impact, but it is a very small contributor
  
 Coffee vs. Pandemic
-➽ Very Strong Negative Correlation
+➽ Pandemic data suggests a relationship between Unemployment and Coffee, however further research into external factors is required
 
 Coffee vs. Commodity
-➽ Moderate Correlations
+➽ Shipping costs have an impact on price of Coffee, but not a major impact
